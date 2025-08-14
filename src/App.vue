@@ -3,8 +3,8 @@ import { RouterView } from 'vue-router';
 import { computed, reactive } from 'vue';
 import { useHead } from '@vueuse/head'
 const siteData = reactive({
-    title: 'สาขาวิชาช่างไฟฟ้า วิทยาลัยเทคนิคตราด',
-    description: 'สาขาวิชาช่างไฟฟ้า วิทยาลัยเทคนิคตราด อาชีวศึกษา'
+    title: 'แผนกวิชาสามัญสัมพันธ์ วิทยาลัยเทคนิคตราด',
+    description: 'แผนกวิชาสามัญสัมพันธ์ วิทยาลัยเทคนิคตราด อาชีวศึกษา'
 })
 
 useHead({
