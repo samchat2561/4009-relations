@@ -16,6 +16,6 @@ export default defineConfig({
   // 👇️ set this
   server: {
     host: true,
-    port:4002
+    port:4009
   },
 })
